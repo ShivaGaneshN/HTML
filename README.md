@@ -635,7 +635,7 @@ Let see the different form of the color red(name), hexadecimal(#ff0000), RGB(rgb
 
 If you followed all the steps by now you should get something like this.
 
-![Simple web page](./images/simple-web-page-1.png)
+![HTML](./images/html-inline-style.png)
 
 Congratulations! You have completed Day 3 challenge
 
@@ -948,10 +948,6 @@ preserved for instance for poem.</pre>
 
 ![formatting example](./images/formatting-example.png)
 
-## Exercises
-
-Create the following text using the formatting elements.
-![Text formatting](./images/text-formating.png)
 
 # Day 6
 
@@ -1038,7 +1034,7 @@ Source, [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
     </style>
     <!-- The script tag allows to write JS code -->
     <script>
-      console.log('Welcome to 30 Days of JavaScript')
+      console.log('Welcome to JavaScript')
     </script>
   </head>
   <body>
@@ -1331,7 +1327,7 @@ The author of this challenge creates different challenges every year. Let us put
       </thead>
       <tbody>
         <tr>
-          <td>30 Days of Python</td>
+          <td>Python</td>
           <td>30</td>
           <td>November 2019</td>
           <td>4.6K</td>
@@ -1340,7 +1336,7 @@ The author of this challenge creates different challenges every year. Let us put
           </td>
         </tr>
         <tr>
-          <td>30 Days of JavaScript</td>
+          <td>JavaScript</td>
           <td>30</td>
           <td>January 2020</td>
           <td>6.8K</td>
@@ -1349,7 +1345,7 @@ The author of this challenge creates different challenges every year. Let us put
           </td>
         </tr>
         <tr>
-          <td>30 Days of React</td>
+          <td>React</td>
           <td>30</td>
           <td>October 2020</td>
           <td>5.6K</td>
